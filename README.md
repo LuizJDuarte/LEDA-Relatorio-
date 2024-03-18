@@ -27,24 +27,27 @@ Agora clique em "Extrair para a pasta selecionada"
 
 <h3>Passo6:</h3>
 
-
+Clique na opção criar "nova pasta" e coloque em um lugar da biblioteca fácil de acessar.
 ![passo6](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/d5469cc6-a01e-489e-8876-33c00187200e)
 
 
 <h3>Passo 7:</h3>
 
-
+Agora, abra o seu eclipse, e aperte no canto esquerdo de forma que apareça a opção "import", e clique nessa opção.
 ![passo7](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/8756621d-5fea-45c8-adc8-79533b6015a8)
 
 <h3>Passo 8:</h3>
 
-
+Clique na opção "existing projects into workspace".
 ![passo8](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/0945d30d-ccb8-4d29-a239-1e86543a6a2e)
 
 <h3>Passo 9:</h3>
 
+Aperte no botão "browse" e procure a pasta criada anteriormente na biblioteca do computador.
 ![passo9](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/6a548384-ceaa-4fea-9263-5b2f0b915361)
 
 <h3>Passo 10:</h3>
 
+Agora é só selecionar o quadradinho de opção e finalizar.
+Dessa forma, os códigos já estarão disponíveis para serem acessados e rodados.
 ![passo10](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/674b659f-68e2-4d04-bd48-883009cd0dec)
