@@ -71,7 +71,9 @@ Dessa forma, os códigos já estarão disponíveis para serem acessados e rodado
 <h4>OBS:</h4>
 
 Nessa parte do código nós definimos que os números vão ser sorteados de forma aleatório com o auxílio da biblioteca random e de uma função que gera números aleatórios.
+***Lembrando que o números de elementos do array é inserido no começo do programa.***
 
 ![obs2](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/d4201889-bb85-43d2-a103-247b88ead827)
 ![obs1](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/b956dbc6-d43c-4942-8990-ff8840e31f34)
-Lembrando que o números de elementos do array é inserido no começo do programa.
+
+
