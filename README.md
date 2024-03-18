@@ -1,3 +1,17 @@
+<h1>Introdução</h1>
+
+Esse repositório tem a função de armazenar os arquivos de java que contém os algoritmos de ordenação Insertion, Selection e Bubble sort.
+Juntos da pasta com os arquivos em java, também temos o relatório que compara o número de trocas e o tempo de execução.
+
+<h1>Requisitos</h1>
+<h3>Requisitos de aplicativos:</h3>
+-Eclipse instalado
+-Winrar instalado(de preferência)
+
+<h3>Requisitos rodar código:</h3>
+-Internet(para baixar os arquivos e acessar o github)
+
+
 <h1>Instruções</h1>
 
 <h3>Passo 1:</h3>
@@ -51,3 +65,12 @@ Aperte no botão "browse" e procure a pasta criada anteriormente na biblioteca d
 Agora é só selecionar o quadradinho de opção e finalizar.
 Dessa forma, os códigos já estarão disponíveis para serem acessados e rodados.
 ![passo10](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/674b659f-68e2-4d04-bd48-883009cd0dec)
+
+<h1>Informações Extras</h1>
+
+<h4>OBS:</h4>
+
+Nessa parte do código nós definimos que os números vão ser sorteados de forma aleatório com o auxílio da biblioteca random e de uma função que gera números aleatórios.
+![obs2](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/d4201889-bb85-43d2-a103-247b88ead827)
+![obs1](https://github.com/LuizJDuarte/LEDA-Relatorio-/assets/100309985/b956dbc6-d43c-4942-8990-ff8840e31f34)
+Lembrando que o números de elementos do array é inserido no começo do programa.
